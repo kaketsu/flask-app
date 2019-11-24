@@ -1,0 +1,1 @@
+from argus import app
